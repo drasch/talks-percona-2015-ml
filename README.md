@@ -1,1 +1,1 @@
-(Slides)[slides.textile]
+[Slides](slides.textile)
