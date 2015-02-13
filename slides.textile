@@ -12,16 +12,21 @@ Percona University Raleigh - 2015
 !SLIDE down-open
 
 !SLIDE
+
 h2. Machine Learning Sounds Cool
+
 !images/flickr.com-jdhancock-3725688716_aa687d0182_b.jpg!
 
 !SLIDE
+
 h2.  Algorithms
 
 !SLIDE
+
 h2. Data
 
 !SLIDE
+
 h2. "Learn"
 
 <img src="images/flickr.com-dcmetroblogger-3297731157_0158dbc526_b.jpg" width="500">
@@ -31,14 +36,17 @@ h2. "Learn"
 
 !SLIDE down-open
 !SLIDE
+
 h2. Simple Example
 
 !SLIDE
+
 h2. Linear Regression
 
 !images/flickr.com-20553990@N06-5808584850.png!
 
 !SLIDE
+
 h2. Y = 4.323 X + 423.232
 
 !SLIDE down-close
@@ -46,9 +54,11 @@ h2. Y = 4.323 X + 423.232
 !SLIDE down-open
 
 !SLIDE
+
 h2. Supervision
 
 !SLIDE
+
 h2. Output
 
 * classification
@@ -57,9 +67,11 @@ h2. Output
 * dimensiality reduction
 
 !SLIDE
+
 h2. Feature extraction
 
 !SLIDE
+
 h2. Overfitting
 
 !images/overfitting.png!
@@ -67,9 +79,11 @@ h2. Overfitting
 !SLIDE down-close
 
 !SLIDE
+
 h2. Example - Titanic Survivors
 
 !SLIDE
+
 h2. Links
 * "http://github.com/drasch":http://github.com/drasch
 * "Anaconda Python Distribution":https://store.continuum.io/cshop/anaconda/
