@@ -85,7 +85,7 @@ h2. Example - Titanic Survivors
 !SLIDE
 
 h2. Links
-* "http://github.com/drasch":http://github.com/drasch
+* "http://github.com/drasch":https://github.com/drasch/talks-percona-2015-ml
 * "Anaconda Python Distribution":https://store.continuum.io/cshop/anaconda/
 * "SciKit Learn":http://scikit-learn.org/stable/
 * "iPython Cookbook Titanic Example":http://nbviewer.ipython.org/github/dboyliao/cookbook-code/blob/master/notebooks/chapter08_ml/02_titanic.ipynb
